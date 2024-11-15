@@ -1,4 +1,4 @@
-# Tetris-in-Python-with-Flask-API
+# Tetris (Python-Flask)
 
 ## Description
 
