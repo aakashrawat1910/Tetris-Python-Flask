@@ -1,6 +1,5 @@
 # Tetris-in-Python-with-Flask-API
 
-
 ## Description
 
 This is a classic Tetris game built using Flask for the backend and HTML/CSS/JavaScript for the frontend. The game allows players to control falling Tetris blocks using keyboard or on-screen buttons. It includes functionalities such as starting a new game, pausing and resuming the game, rotating, and moving the blocks.
@@ -105,6 +104,27 @@ python Tetris.py
    - The block eventually lands, and new blocks continue to fall.
 4. **Clearing Lines**: If a full line of blocks is formed, that line is cleared, and your score increases.
 5. **Game Over**: If the blocks stack to the top of the screen, the game ends, and an alert shows your final score.
+
+---
+
+## Screenshots
+
+Below are some screenshots showing the game in action:
+
+### 1. **Game Starting Screen**
+
+![Game Start Screen](screenshots/game_start.png)
+*Description: The game board at the start of a new game, with the "Start Game" button visible.*
+
+### 2. **Game in Progress**
+
+![Game in Progress](screenshots/game_in_progress.png)
+*Description: A screenshot showing the Tetris grid while blocks are falling. The "Pause" button is also visible.*
+
+### 3. **Game Over Screen**
+
+![Game Over Screen](screenshots/game_over.png)
+*Description: The game over screen showing the final score when the blocks reach the top.*
 
 ---
 
